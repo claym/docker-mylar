@@ -14,7 +14,7 @@ RUN \
 	tzlocal && \
 
 # install app
- git clone --depth 1 https://github.com/evilhero/mylar.git /app/mylar && \
+ git clone -b development https://github.com/evilhero/mylar.git /app/mylar && \
 
 # cleanup
  rm -rf \
