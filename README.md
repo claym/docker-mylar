@@ -1,3 +1,7 @@
+Note: this is exactly the same as linuxserver/docker-mylar, except it doesn't check out at depth 0 and it switches to the development branch. 
+
+You probably don't need this unless you do
+
 [linuxserverurl]: https://linuxserver.io
 [forumurl]: https://forum.linuxserver.io
 [ircurl]: https://www.linuxserver.io/irc/
